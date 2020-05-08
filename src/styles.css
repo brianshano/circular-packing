@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+.node:hover {
+  stroke-width: 7px !important;
+  opacity: 1 !important;
+}
+
+.tooltip {
+  border: 1px solid red;
+  color: blue;
+  background-color: yellow;
+}
